@@ -13,8 +13,8 @@ let store = {
 
             email: [{
                 id: 1,
-                email: 'abcde_fghgklm@gmail.com',
-                emailHref: 'abcde_fghgklm@gmail.com',
+                email: 'abcdefg@gmail.com',
+                emailHref: 'abcdefg@gmail.com',
                 sign: 'E: ',
             }]
         },
