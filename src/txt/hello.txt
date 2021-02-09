@@ -1,5 +1,11 @@
 hello
 1
 2
+<<<<<<< HEAD:src/txt/hello.txt
 4
 
+=======
+3
+hello
+new
+>>>>>>> test3:src/hello.txt
