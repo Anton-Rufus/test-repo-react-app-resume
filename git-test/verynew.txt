@@ -1,0 +1,6 @@
+old line
+new line
+middle one
+old line
+middle one
+old line
