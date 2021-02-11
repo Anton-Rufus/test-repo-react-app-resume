@@ -14,7 +14,7 @@ function App(props) {
                 {/*about me container*/}
                 <MainContent mainContent={props.store.mainContent}/>
             </div>
-        </div>
+         </div>
     );
 }
 
