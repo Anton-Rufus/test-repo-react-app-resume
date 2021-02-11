@@ -1,2 +1,3 @@
 new line
+middle one
 old line
